@@ -1,0 +1,9 @@
+tutorial:
+http://karanalpe.com.br/tecnologia/back-end/criando-e-consumindo-um-servico-rest-com-nodejs/?fbclid=IwAR1AoU06vUptv7X4N1EUk3G-9BgtYhyf3FcZYoTSgaLCMWbyzd7jPMJRK14
+
+comandos:
+
+npm init -y
+yarn add express body-parser
+
+
